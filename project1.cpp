@@ -30,6 +30,10 @@ int main() {
 
     int number1 =20;
     if(ktraSHT(num)==true)
+<<<<<<< HEAD
     cout << "Day la so hoan thien : ";
+=======
+    cout << "Day la so hoan thien la : ";
+>>>>>>> hoanthien
 	return 0;
 }
